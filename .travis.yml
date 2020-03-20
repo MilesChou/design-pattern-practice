@@ -18,7 +18,6 @@ install:
 
 script:
   - make test
-  - make analyse
 
 cache:
   directories:

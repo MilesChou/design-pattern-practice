@@ -1,6 +1,5 @@
 <?php
 
-
 namespace MilesChou\DesignPatternPractice\Adapter\Adaptee;
 
 class ApplePay
