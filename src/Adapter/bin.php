@@ -1,8 +1,8 @@
 <?php
 
-use MilesChou\Template\Adapter\ApplePay;
-use MilesChou\Template\Adapter\LinePay;
-use MilesChou\Template\Adapter\PayDriverInterface;
+use MilesChou\DesignPatternPractice\Adapter\ApplePay;
+use MilesChou\DesignPatternPractice\Adapter\LinePay;
+use MilesChou\DesignPatternPractice\Adapter\PayDriverInterface;
 
 require_once __DIR__ . '/../../vendor/autoload.php';
 

@@ -1,11 +1,8 @@
 {
-    "name": "mileschou/composer-template",
-    "description": "The template for create Composer project",
+    "name": "mileschou/design-pattern-practice",
+    "description": "Design pattern practice",
     "type": "library",
     "license": "MIT",
-    "keywords": [
-        "template"
-    ],
     "authors": [
         {
             "name": "MilesChou",
@@ -23,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MilesChou\\Template\\": "src"
+            "MilesChou\\DesignPatternPractice\\": "src"
         }
     },
     "autoload-dev": {

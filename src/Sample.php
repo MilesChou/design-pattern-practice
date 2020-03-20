@@ -1,6 +1,6 @@
 <?php
 
-namespace MilesChou\Template;
+namespace MilesChou\DesignPatternPractice;
 
 class Sample
 {

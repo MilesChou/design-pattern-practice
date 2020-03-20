@@ -1,6 +1,6 @@
 <?php
 
-namespace MilesChou\Template\Adapter;
+namespace MilesChou\DesignPatternPractice\Adapter;
 
 interface PayDriverInterface
 {

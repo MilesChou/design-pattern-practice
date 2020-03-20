@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MilesChou\Template\Adapter\Adaptee;
+namespace MilesChou\DesignPatternPractice\Adapter\Adaptee;
 
 class LinePay
 {

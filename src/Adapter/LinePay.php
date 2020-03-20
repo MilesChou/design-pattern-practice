@@ -1,8 +1,8 @@
 <?php
 
-namespace MilesChou\Template\Adapter;
+namespace MilesChou\DesignPatternPractice\Adapter;
 
-use MilesChou\Template\Adapter\Adaptee;
+use MilesChou\DesignPatternPractice\Adapter\Adaptee;
 
 class LinePay implements PayDriverInterface
 {
